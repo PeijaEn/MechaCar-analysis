@@ -34,8 +34,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![image](https://github.com/PeijaEn/MechaCar-analysis/blob/main/resources/mod%2015,%20del%203.png?raw=true)
 
-- placeholder
+- Not statisitically different from pop. mean and p-value isn't enough to reject the null hypothesis.
 
 ![image](https://github.com/PeijaEn/MechaCar-analysis/blob/main/resources/mod%2015,%20del%203.1.png?raw=true)
+
+- Lot 1 T-Test: Not statisitically different from pop. mean and p-value isn't low enough to reject the null hypothesis.
+
+- Lot 2 T-Test: Not statisitically different from pop. mean and p-value isn't low enough to reject the null hypothesis.
+
+- Lot 3 T-Test: Statisitically different from pop. mean and p-value is low enough to reject the null hypothesis.
 
 # Study Design: MechaCar versus Rest of Competition
