@@ -44,4 +44,6 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 - Lot 3 T-Test: Statisitically different from pop. mean and p-value is low enough to reject the null hypothesis.
 
-# Study Design: MechaCar versus Rest of Competition
+# Study Design: MechaCar versus Competition
+
+There are a lot of factors to take into consideration when comparing which car to purchase. In a world that continues to get more expensive, more of a need for internet, and reliable MPG, people are very picky when looking for their next car. With inflation, I would choose to look at cost and maintenance of the vehicle because saving money is a priority for me. I would need to obtain data that showcases the cost of the MechaCar prototypes and the maintenance costs of the MechaCar. The same goes for the competitors data and info. This info would show how MechaCars vary from initial cost and future costs compared to the market. I would use the 'r' squared values to see how future points on the linear model created would look. My null and alternative hypothesis's would be that the linear model is zero and/or not zero. This would be used to find the best cost for our MechaCar while minimizing maintenance and maximizing marketing to consumers.
