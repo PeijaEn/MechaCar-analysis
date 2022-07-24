@@ -12,7 +12,7 @@ The purpose of this statistical analysis was to determine how to get around the 
 ## linear Regression to Predict MPG
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- 
+- The vehicle length and ground clearance
 
 Is the slope of the linear model considered to be zero? Why or why not?
 - 
